@@ -1,5 +1,5 @@
 <!-- Banner com efeito typing -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+a+Thaissa+Kailaine;Web+Designer+%7C+Front-end+Developer;Estudante+de+ADS+na+FIAP;React+%7C+JavaScript+%7C+TypeScript+%7C+HTML+%7C+CSS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Thaissa+Kailaine;Web+Designer+%7C+Front-end+Developer;Estudante+de+ADS+na+FIAP;React+%7C+JavaScript+%7C+TypeScript+%7C+HTML+%7C+CSS)](https://git.io/typing-svg)
 
 ---
 

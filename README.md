@@ -19,12 +19,10 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-
-![Thaissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkailaine&show_icons=true&theme=radical&title_color=A020F0&icon_color=A020F0&text_color=ffffff&bg_color=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkailaine&layout=compact&theme=radical&title_color=A020F0&text_color=ffffff&bg_color=0d1117)
-
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tkailaine&show_icons=true&theme=radical&title_color=A020F0&icon_color=A020F0&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkailaine&layout=compact&theme=radical&title_color=A020F0&text_color=ffffff&bg_color=0d1117" alt="Top Langs" />
 </div>
 
 ---

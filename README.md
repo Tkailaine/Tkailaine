@@ -30,9 +30,6 @@
 ---
 
 ## 🐍 Animação dos commits
-<div align="center">
-  <img src="https://github.com/tkailaine/tkailaine/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />

@@ -36,7 +36,7 @@ Landing page desenvolvida para **cliente da área jurídica**, integrando a **Yo
 ✔️ Paginação  
 ✔️ Boas práticas de segurança (API key removida do repositório e restrita por domínio)
 
-🔗 Repositório: https://github.com/tkailaine/landing-page-advogado-youtube
+🔗 Repositório: https://github.com/tkailaine/cesar-micheli
 
 ---
 
@@ -48,15 +48,15 @@ O bot retorna informações como **finalidade, contraindicações e cuidados**, 
 ✔️ Integração via HTTP Request  
 ✔️ Design de respostas orientado à experiência do usuário
 
-🔗 Repositório: https://github.com/tkailaine/bot-consulta-medicamentos
+🔗 Repositório: https://github.com/tkailaine/bot-medicamentos-n8n
 
 ---
 
-## 🐍 Meus commits em ação
-![Snake animation](https://raw.githubusercontent.com/tkailaine/tkailaine/output/github-snake.svg)
+## 💻 Meus Commits em Ação <picture> <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" /> <img alt="github-snake" src="dist/github-snake.svg" /> </picture>
 
 ---
+
 
 ## 📫 Contato
-- 💼 LinkedIn: (adicione aqui)
-- ✉️ Email: (adicione aqui)
+- 💼 LinkedIn: https://www.linkedin.com/in/thaissa-kailaine/
+- ✉️ Email: thaissakailaine.ti@gmail.com

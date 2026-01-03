@@ -1,39 +1,52 @@
 <!-- Banner com efeito typing -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Thaissa+Kailaine;Web+Designer+%7C+Front-end+Developer;Estudante+de+ADS+na+FIAP;React+%7C+JavaScript+%7C+TypeScript+%7C+HTML+%7C+CSS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Thaissa+Kailaine;Front-end+Developer+com+background+em+Web+Design;Estudante+de+ADS+na+FIAP;React+%7C+JavaScript+%7C+TypeScript+%7C+HTML+%7C+CSS)](https://git.io/typing-svg)
 
 ---
 
 ## 👩‍💻 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FIAP  
-- 💻 Web Designer migrando para **Front-end com React**  
-- 🚀 Apaixonada por **tecnologia, design e interfaces inteligentes**  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FIAP (formação em dez/2026)  
+- 💻 **Front-end Developer** com background em Web Design  
+- 🧠 Experiência com interfaces acessíveis, consumo de APIs e automação  
 - 📍 São Paulo, Brasil  
 
 ---
 
 ## 🚀 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,figma,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,figma,nodejs" />
 </div>
 
 ---
 
 ## 📊 GitHub Stats
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tkailaine&show_icons=true&theme=radical&title_color=A020F0&icon_color=A020F0&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkailaine&layout=compact&theme=radical&title_color=A020F0&text_color=ffffff&bg_color=0d1117" alt="Top Langs" />
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=tkailaine&show_icons=true&theme=radical" 
+    alt="GitHub Stats" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkailaine&layout=compact&theme=radical" 
+    alt="Top Langs" 
+    height="165"
+  />
 </div>
 
 ---
-## 💻 Meus Commits em Ação
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
 
+## 🧩 Projetos em destaque
+- 🔹 **Plataforma acessível para o Hospital das Clínicas**  
+  Front-end em React, TypeScript e Tailwind, com foco em acessibilidade e integração com API.
 
+- 🔹 **Landing page com integração à API do YouTube**  
+  Projeto para cliente real, exibindo vídeos do canal de forma automatizada e segura.
+
+- 🔹 **Bot de consulta de medicamentos (n8n + IA)**  
+  Fluxo automatizado com integração à API pública da FDA e agente de IA para respostas objetivas.
 
 ---
 
+## 🐍 Meus commits em ação
+![Snake animation](https://raw.githubusercontent.com/tkailaine/tkailaine/output/github-snake.svg)
+
+---

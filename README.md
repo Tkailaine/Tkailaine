@@ -1,62 +1,95 @@
 <!-- Banner com efeito typing -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=650&lines=Olá!+Eu+sou+Thaissa+Kailaine;Front-end+Developer+com+background+em+Web+Design;Estudante+de+ADS+na+FIAP;Interfaces+acessíveis+e+soluções+reais)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=650&lines=Olá!+Eu+sou+Thaissa+Kailaine;Software+Developer+em+formação;Estudante+de+ADS+na+FIAP;Construindo+soluções+com+Java,+C#+e+APIs)](https://git.io/typing-svg)
 
 ---
 
 ## 👩‍💻 Sobre mim
-Sou **estudante de Análise e Desenvolvimento de Sistemas na FIAP**, com formação prevista para **dezembro de 2026**.  
-Atuo como **Front-end Developer**, com background em Web Design, desenvolvendo soluções reais para clientes e projetos acadêmicos com foco em **acessibilidade, experiência do usuário e integração com APIs**.
+
+Sou **estudante de Análise e Desenvolvimento de Sistemas na FIAP**, com conclusão prevista para **dezembro de 2026**.
+
+Tenho experiência prática no desenvolvimento de **aplicações web, automações e integrações com APIs**, além de projetos acadêmicos e soluções desenvolvidas para clientes reais.
+
+Atualmente estou aprofundando conhecimentos em **desenvolvimento de software com Java, C# e .NET**, além de boas práticas de **Programação Orientada a Objetos, arquitetura de software e versionamento com Git**.
 
 📍 São Paulo, Brasil
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,figma,nodejs,wordpress" />
+  <img src="https://skillicons.dev/icons?i=cs,java,python,js,react,nodejs,html,css,git,mysql" />
 </div>
 
 ---
 
 ## 🧩 Projetos em Destaque
 
-### 🔹 Plataforma Acessível — Hospital das Clínicas
-Aplicação web desenvolvida em **React, TypeScript e TailwindCSS**, com foco em acessibilidade digital para pacientes com dificuldades motoras, cognitivas ou baixo acesso à tecnologia.  
-Atuei no **front-end e integração com API**, colaborando em equipe multidisciplinar.
+### 🔹 Plataforma de Teleconsulta — Hospital das Clínicas
 
-🔗 Repositório: https://github.com/novatec-challenge/challenge-v2.1  
-🔗 Deploy: https://challenge-v2-1.vercel.app/
+Aplicação web desenvolvida em equipe para melhorar a participação de pacientes em teleconsultas.
 
----
+**Tecnologias utilizadas**
+- React
+- Java
+- APIs REST
+- Git/GitHub
 
-### 🔹 Landing Page com Integração à API do YouTube
-Landing page desenvolvida para **cliente da área jurídica**, integrando a **YouTube Data API** para exibição automática dos vídeos do canal, reforçando autoridade e credibilidade digital.
+Participei do desenvolvimento da **interface da aplicação e integração com API**, colaborando em equipe no levantamento de requisitos e implementação de funcionalidades.
 
-✔️ Consumo de API  
-✔️ Paginação  
-✔️ Boas práticas de segurança (API key removida do repositório e restrita por domínio)
+🔗 Repositório:  
+https://github.com/novatec-challenge/challenge-v2.1
 
-🔗 Repositório: https://github.com/tkailaine/cesar-micheli
-
----
-
-### 🔹 Bot de Consulta de Medicamentos (n8n + IA)
-Fluxo automatizado criado no **n8n**, integrado à **API pública da FDA** e a um **agente de IA (Gemini)** para consulta objetiva de medicamentos.  
-O bot retorna informações como **finalidade, contraindicações e cuidados**, evitando sobrecarga de informação e **sem fornecer orientação médica**.
-
-✔️ Automação de processos  
-✔️ Integração via HTTP Request  
-✔️ Design de respostas orientado à experiência do usuário
-
-🔗 Repositório: https://github.com/tkailaine/bot-medicamentos-n8n
+🔗 Deploy:  
+https://challenge-v2-1.vercel.app/
 
 ---
 
-## 💻 Meus Commits em Ação <picture> <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" /> <img alt="github-snake" src="dist/github-snake.svg" /> </picture>
+### 🔹 Integração com YouTube Data API
+
+Aplicação web desenvolvida para cliente da área jurídica com integração automática à **YouTube Data API**, exibindo conteúdos do canal diretamente no site.
+
+Principais pontos técnicos:
+
+- Consumo de **API REST**
+- Manipulação de dados da API
+- Paginação
+- Boas práticas de segurança para uso de **API keys**
+
+🔗 Repositório:  
+https://github.com/tkailaine/cesar-micheli
 
 ---
 
+### 🔹 Automação de Processos com n8n
+
+Fluxo automatizado desenvolvido com **n8n**, integrando **API pública da FDA** e um agente de IA para consulta estruturada de informações sobre medicamentos.
+
+Principais pontos técnicos:
+
+- Automação de workflows
+- Integração via **HTTP Request**
+- Processamento de dados de APIs externas
+
+🔗 Repositório:  
+https://github.com/tkailaine/bot-medicamentos-n8n
+
+---
+
+## 📈 GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
+---
 
 ## 📫 Contato
-- 💼 LinkedIn: https://www.linkedin.com/in/thaissa-kailaine/
-- ✉️ Email: thaissakailaine.ti@gmail.com
+
+💼 LinkedIn  
+https://www.linkedin.com/in/thaissa-kailaine/
+
+✉️ Email  
+thaissakailaine.ti@gmail.com

@@ -1,7 +1,3 @@
-<!-- Banner -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=A020F0&center=true&vCenter=true&width=750&lines=Ol%C3%A1!+Thaissa+Kailaine;Front-end+%7C+Automa%C3%A7%C3%A3o+%7C+Integra%C3%A7%C3%B5es;React+%7C+TypeScript+%7C+n8n+%7C+APIs)](https://git.io/typing-svg)
-
----
 
 # 👋 Sobre mim
 

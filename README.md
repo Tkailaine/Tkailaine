@@ -1,95 +1,85 @@
-<!-- Banner com efeito typing -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=650&lines=Olá!+Eu+sou+Thaissa+Kailaine;Software+Developer+em+formação;Estudante+de+ADS+na+FIAP;Construindo+soluções+com+Java,+C#+e+APIs)](https://git.io/typing-svg)
+<!-- Banner -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=A020F0&center=true&vCenter=true&width=750&lines=Ol%C3%A1!+Thaissa+Kailaine;Front-end+%7C+Automa%C3%A7%C3%A3o+%7C+Integra%C3%A7%C3%B5es;React+%7C+TypeScript+%7C+n8n+%7C+APIs)](https://git.io/typing-svg)
 
 ---
 
-## 👩‍💻 Sobre mim
+# 👋 Sobre mim
 
-Sou **estudante de Análise e Desenvolvimento de Sistemas na FIAP**, com conclusão prevista para **dezembro de 2026**.
+Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP (conclusão prevista para dezembro de 2026) e trabalho com front-end, automação e integração de sistemas.
 
-Tenho experiência prática no desenvolvimento de **aplicações web, automações e integrações com APIs**, além de projetos acadêmicos e soluções desenvolvidas para clientes reais.
+Na maioria dos projetos que desenvolvi, o ponto de partida não foi uma tecnologia, foi um processo manual que estava consumindo tempo de alguém, uma recepção confirmando agendamento um a um pelo WhatsApp, um site institucional que nunca acompanhava o conteúdo que o cliente produzia em outro lugar. Prefiro entender esse tipo de gargalo antes de decidir qual stack faz sentido para resolvê-lo.
 
-Atualmente estou aprofundando conhecimentos em **desenvolvimento de software com Java, C# e .NET**, além de boas práticas de **Programação Orientada a Objetos, arquitetura de software e versionamento com Git**.
+Atualmente busco oportunidades como **Desenvolvedora Front-end, Full Stack Júnior ou Automation Developer**.
 
 📍 São Paulo, Brasil
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+# Áreas de atuação
+
+- Front-end com React e TypeScript
+- Automação de processos com n8n
+- Integração entre sistemas e consumo de APIs REST
+- Aplicação de IA em fluxos de atendimento e processamento de dados
+- Modelagem de banco de dados e arquitetura de solução (Supabase/PostgreSQL, Docker)
+
+Também estou me aprofundando em Spring Boot e Power BI para ampliar minha atuação em backend e análise de dados.
+
+---
+
+# Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,python,js,react,nodejs,html,css,git,mysql" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,java,spring,postgres,mysql,git,docker,figma"/>
 </div>
 
 ---
 
-## 🧩 Projetos em Destaque
+# Projetos
 
-### 🔹 Plataforma de Teleconsulta — Hospital das Clínicas
+## 🤖 SaaS multi-tenant para clínicas de estética
+Clínicas de estética confirmavam agendamentos manualmente pelo WhatsApp, o que gerava esquecimentos, faltas e retrabalho para a recepção. Desenvolvi a automação completa do relacionamento com o paciente em n8n — lembretes automáticos, reagendamento, cancelamento e um atendimento inicial com IA.
 
-Aplicação web desenvolvida em equipe para melhorar a participação de pacientes em teleconsultas.
+Desde o início, desenhei a solução como multi-tenant: cada clínica opera com sua própria configuração e seus próprios dados, sobre a mesma base de arquitetura, o que permite atender novos clientes sem reconstruir o sistema. Fui responsável pela modelagem dos fluxos, pelas regras de negócio, pela integração entre WhatsApp e banco de dados (Supabase/PostgreSQL) e pela infraestrutura em Docker e Redis. O dashboard administrativo teve apoio de ferramentas de IA na implementação, sob minha direção técnica.
 
-**Tecnologias utilizadas**
-- React
-- Java
-- APIs REST
-- Git/GitHub
+O resultado é uma base pronta para ser comercializada como Micro SaaS, e não apenas uma solução pontual para um único cliente.
 
-Participei do desenvolvimento da **interface da aplicação e integração com API**, colaborando em equipe no levantamento de requisitos e implementação de funcionalidades.
-
-🔗 Repositório:  
-https://github.com/novatec-challenge/challenge-v2.1
-
-🔗 Deploy:  
-https://challenge-v2-1.vercel.app/
+`n8n` `Supabase` `PostgreSQL` `React` `Docker`
 
 ---
 
-### 🔹 Integração com YouTube Data API
+## 💊 Chatbot de medicamentos
+Encontrar informação técnica confiável sobre medicamentos costuma exigir consultar documentos extensos em fontes dispersas. Construí um chatbot em n8n que consulta diretamente a base oficial do FDA e usa o Google Gemini para interpretar e organizar essa informação em linguagem clara.
 
-Aplicação web desenvolvida para cliente da área jurídica com integração automática à **YouTube Data API**, exibindo conteúdos do canal diretamente no site.
+Um ponto que exigiu atenção especial foi delimitar o escopo das respostas, para que o bot nunca chegasse perto de oferecer orientação médica — ele resume dados oficiais, não os interpreta clinicamente. O relatório completo só é gerado quando solicitado explicitamente.
 
-Principais pontos técnicos:
-
-- Consumo de **API REST**
-- Manipulação de dados da API
-- Paginação
-- Boas práticas de segurança para uso de **API keys**
-
-🔗 Repositório:  
-https://github.com/tkailaine/cesar-micheli
+`n8n` `Google Gemini` `API FDA`
 
 ---
 
-### 🔹 Automação de Processos com n8n
+## 🏥 Plataforma de acessibilidade — Hospital das Clínicas
+Desenvolvido durante um desafio acadêmico da FIAP em parceria com o Hospital das Clínicas, com foco em pacientes com baixa familiaridade tecnológica. Atuei no front-end (React, TypeScript, Vite, Tailwind CSS), consumindo a API construída pelo time de backend em Java.
 
-Fluxo automatizado desenvolvido com **n8n**, integrando **API pública da FDA** e um agente de IA para consulta estruturada de informações sobre medicamentos.
+A prioridade aqui não era sofisticação visual, e sim garantir que a navegação fosse simples e acessível para quem tem pouco contato com interfaces digitais.
 
-Principais pontos técnicos:
-
-- Automação de workflows
-- Integração via **HTTP Request**
-- Processamento de dados de APIs externas
-
-🔗 Repositório:  
-https://github.com/tkailaine/bot-medicamentos-n8n
+`React` `TypeScript` `Vite` `Tailwind`
 
 ---
 
-## 📈 GitHub Activity
+## ⚖️ Landing page integrada à YouTube API
+Um cliente da área jurídica produzia conteúdo regularmente no YouTube, mas seu site institucional não refletia isso — ficava desatualizado em relação ao canal. Integrei a YouTube Data API diretamente na landing page, com paginação de resultados, para que novos vídeos passassem a aparecer automaticamente, sem necessidade de atualização manual.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
+`JavaScript` `YouTube Data API`
 
 ---
 
-## 📫 Contato
+## 📊 FlowCap
+Ferramenta para simular cenários operacionais e tornar visível o crescimento de backlog quando há uma diferença sustentada entre demanda e capacidade. Separei claramente a lógica de cálculo (backlog, atraso, classificação de risco) da camada de interface, para que as regras de negócio pudessem evoluir sem impactar a experiência do usuário.
 
-💼 LinkedIn  
-https://www.linkedin.com/in/thaissa-kailaine/
+`React` `TypeScript`
 
-✉️ Email  
-thaissakailaine.ti@gmail.com
+---
+
+# Contato
+
+💼 [LinkedIn](https://br.linkedin.com/in/thaissa-kailaine)· 📧 thaissakailaine.ti@gmail.com
